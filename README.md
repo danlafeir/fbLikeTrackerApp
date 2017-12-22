@@ -8,4 +8,4 @@ That could easily be created by using the sailsjs library
 
 I am hoping to add a search functionality to it so you don't need to know what page url is. 
 
-I made this to practice with the FB api and angularjs (I highly reccomend angularjs)
+I made this to practice with the FB api and angularjs 
